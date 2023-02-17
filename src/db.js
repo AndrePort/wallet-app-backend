@@ -6,6 +6,6 @@ const db = new Pool({
   database: "finances",
   host: "localhost",
   port: 5432,
-})
+});
 
 module.exports = db;
