@@ -13,12 +13,14 @@
 - Docker
 
 Download links:
-https://nodejs.org/en/download/
-https://www.docker.com/products/docker-desktop/
+<br>
+ https://nodejs.org/en/download/
+<br>
+ https://www.docker.com/products/docker-desktop/
 
 ## Documentation:
 
-Use insomnia to import the file bellow:
+Use insomnia to import the file:
 https://github.com/AndrePort/wallet-app-backend/blob/master/Insomnia.json
 
 ## Steps tp run the project
